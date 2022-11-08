@@ -1,0 +1,7 @@
+External library "matplotlib" is used to genarate plots using python code.
+
+
+~~ Assumptions ~~
+
+People who are not included in families are lives separately as single individuals.
+Senior adults are in 30% to 31% in the population.
