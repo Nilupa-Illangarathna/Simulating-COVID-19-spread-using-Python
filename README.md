@@ -6,6 +6,7 @@
 
 
 ## UML diagram related
+![CovidSimUML](https://user-images.githubusercontent.com/95247831/200545154-e8f9ea48-b9da-4b07-bbdb-62d63b68b089.png)
 
 
 
