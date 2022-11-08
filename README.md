@@ -1,5 +1,4 @@
 # Simulating-COVID-19-spread-using-Python
-![dev_animado](https://user-images.githubusercontent.com/95247831/200566349-7b151e80-bf5f-4fb3-ba2d-64945cd0a80d.gif)
 
 ## Given task
 ![Given task1](https://user-images.githubusercontent.com/95247831/200543386-b4c38d38-9888-4f2a-85ce-047cde763997.png)
